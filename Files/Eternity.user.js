@@ -6,7 +6,7 @@
 // @match        https://*.test-eu.tankionline.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tankionline.com
 
-// @downloadURL  user
+// @downloadURL  https://github.com/Jony0101/JS-Cheat/raw/main/Files/Eternity.user.js
 // @updateURL    https://github.com/Jony0101/JS-Cheat/raw/main/Files/Eternity.meta.js
 
 // @run-at       document-start
