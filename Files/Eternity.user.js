@@ -18,7 +18,7 @@
 
 GM_xmlhttpRequest({
     method: 'GET',
-    url: 'https://github.com/Jony0101/JS-Cheat/raw/main/Files/Eternity.js',
+    url: 'https://github.com/Jony0101/JS-Cheat/raw/main/Files/Eternity.min.js',
     nocache: true,
     onload: r => eval(r.responseText)
 })
